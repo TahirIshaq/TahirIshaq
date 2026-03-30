@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+### :man_technologist: About Me:
+
+I am a DevOps Engineer. I am always trying to learn new things and improve my current skills. 
+Visit my [Portfolio website](https://tahir-portfolio-mu.vercel.app/)) to view some of my projects.
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,githubactions,docker,kubernetes,git,bash,linux,jenkins,postgres,terraform,ansible,prometheus,grafana)](https://skillicons.dev)
+
 <!--
-**TahirIshaq/TahirIshaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
