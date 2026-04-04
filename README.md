@@ -3,7 +3,7 @@
 ### :man_technologist: About Me:
 
 I am a DevOps Engineer. I am always trying to learn new things and improve my current skills. 
-Visit my [Portfolio website](https://tahir-portfolio-mu.vercel.app/)) to view some of my projects.
+Visit my [Portfolio website](https://tahir-portfolio-mu.vercel.app/) to view some of my projects.
 
 ---
 
